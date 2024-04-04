@@ -85,13 +85,13 @@ La API consumida en el proyecto: [REST Countries](https://restcountries.com/#res
 
 ## Servidor de desarrollo
 
-Ejecute `ngserve` para un servidor de desarrollo. Navegue hasta `http://localhost:4200/`. La aplicación se recargará automáticamente si cambia alguno de los archivos fuente.
+Ejecute `ng serve` para un servidor de desarrollo. Navegue hasta `http://localhost:4200/`. La aplicación se recargará automáticamente si cambia alguno de los archivos fuente.
 
 <div align="center">
   <br>
   <br>
   <br>
-  <h1>Más info...
+  <h1>More info...
 </div>
 
 ## Code scaffolding

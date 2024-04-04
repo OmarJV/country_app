@@ -1,11 +1,12 @@
-<h2> Por capital </h2>
+<h2 class=" text-center "> Por Capital </h2>
 <hr>
 
 <div class="row">
   <div class=" col ">
     <!-- Search box -->
+    <!-- (onValue)="searchByCapital($event)" -->
     <shared-search-box
-      (onValue)="searchByCapital($event)"
+      (onDebounce)="searchByCapital($event)"
       placeholder=" Buscar por capítal"></shared-search-box>
   </div>
 </div>
